@@ -11,3 +11,5 @@ Key learnings:
 - How we can use tensordict.TensorDict to carry multi-agent data;
 
 - How we can tie all the library components (collectors, modules, replay buffers, and losses) in a multi-agent MAPPO/IPPO training loop.
+
+![Multi-agent Navigation scenario]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://pytorch.s3.amazonaws.com/torchrl/github-artifacts/img/navigation.gif))
