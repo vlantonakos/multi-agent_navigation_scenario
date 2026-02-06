@@ -1,5 +1,7 @@
 MULTI-AGENT REINFORCEMENT LEARNING (PPO - Proximal Policy Optimization) WITH TORCHRL TUTORIAL
 
+This tutorial demonstrates how to use PyTorch and torchrl to solve a Multi-Agent Reinforcement Learning (MARL) problem.
+
 Key learnings:
 
 - How to create a multi-agent environment in TorchRL, how its specs work, and how it integrates with the library;
