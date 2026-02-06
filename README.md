@@ -1,4 +1,4 @@
-# Multi-agent_Navigation_scenario
+MULTI-AGENT REINFORCEMENT LEARNING (PPO - Proximal Policy Optimization) WITH TORCHRL TUTORIAL
 
 Key learnings:
 
